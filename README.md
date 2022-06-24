@@ -1,5 +1,7 @@
 Hi there 👋
-WASSSSSSSSSSSSSSUo
+
+My name is Abrar Murad and I'm a student @ Wilfrid Laurier University for Computer Science.
+
 <!--
 **abrarmurad416/abrarmurad416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
