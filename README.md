@@ -1,9 +1,9 @@
 Hi there 🚀
-My name is Abrar Murad and I'm currently studying Computer Science (BSc) @ Wilfrid Laurier University.
-Reach me at:
-Linkedin - www.linkedin.com/in/abrar-murad
-Instagram - abrar.murad416
-Github - abrarmurad416
+My name is Abrar Murad and I'm currently studying Computer Science (BSc) @ Wilfrid Laurier University. <br />
+Reach me at: <br />
+Linkedin - www.linkedin.com/in/abrar-murad <br />
+Instagram - abrar.murad416 <br />
+Github - abrarmurad416 <br />
 
 
 
