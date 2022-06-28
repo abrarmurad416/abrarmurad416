@@ -1,7 +1,12 @@
-Hi there 🚀
-My name is Abrar Murad and I'm an imcoming Computer Science (BSc) student @ Wilfrid Laurier University. <br />
-
-
+Hi there! 🚀 <br />
+My name is Abrar Murad. 🏜️ <br />
+I'm an imcoming Computer Science (BSc) student @ Wilfrid Laurier University. 🟡🟣 <br />
+Currently learning html/css. 🗂️ <br />
+Currently working on my personal website and discord bot. 🖥️ <br />
+<br />
+Check out my socials: <br />
+IG: @abrar.murad416 <br />
+Linkedin: www.linkedin.com/in/abrar-murad <br />
 
 <!--
 **abrarmurad416/abrarmurad416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
