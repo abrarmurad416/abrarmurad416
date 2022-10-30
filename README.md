@@ -1,8 +1,8 @@
 Hi there! 🚀 </br>
 My name is Abrar Murad. 🏜️ </br>
-Imcoming Computer Science (BSc) student @ Wilfrid Laurier University. 🟡🟣 </br>
-Currently learning html/css. 🗂️ </br>
-Currently working on personal website and discord bot. 🖥️ </br>
+Computer Science (BSc) student @ Wilfrid Laurier University. 🟡🟣 </br>
+Currently learning React.JS 🗂️ </br>
+Currently working on discord bot. 🖥️ </br>
 
 
 <!--
