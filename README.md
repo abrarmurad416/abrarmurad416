@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎮 About Me:
 🚀 Hi there!<br>🏜️ My name is Abrar Murad.<br>🌱 I’m learning the MERN tech stack.<br>🖥️ Currently working on a discord bot.<br>⚡ Fun fact: I know the capitals of the world!<br>💬 Ask me about AI/Machine Learning | Full-stack development | Cloud engineering.<br>🟡🟣 Computer Science (BSc) student @ Wilfrid Laurier University.<br>
 
 
@@ -16,26 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=abrarmurad416&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
 <!--
