@@ -16,7 +16,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/abrarmurad416/abrarmurad416/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **abrarmurad416/abrarmurad416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
