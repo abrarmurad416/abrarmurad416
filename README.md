@@ -1,5 +1,5 @@
 # 🎮 About Me:
-🚀 Hi there!<br>🏜️ My name is Abrar Murad.<br>🌱 I’m learning Go programming language.<br>💬 Ask me about AI/Machine Learning | Full-stack development | Cloud engineering.<br>🟡🟣 Computer Science (BSc) student @ Wilfrid Laurier University.<br>
+🚀 Hi there!<br>🏜️ My name is Abrar Murad.<br>🌱 I’m learning the Go programming language.<br>💬 Ask me about AI/Machine Learning | Full-stack development | Cloud engineering.<br>🟡🟣 Computer Science (BSc) student @ Wilfrid Laurier University.<br>
 
 
 # 💻 Tech Stack:
